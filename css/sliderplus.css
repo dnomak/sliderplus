@@ -1,14 +1,6 @@
 body {
   padding: 80px;
 }
-.container {
-  position: relative;
-  width: 700px;
-  height: 240px;
-  margin: 0 auto;
-  overflow: hidden;
-  border-radius: 120px;
-}
 @-webkit-keyframes slide-shell {
   0% {
     left: 118px;
@@ -36,6 +28,14 @@ body {
   100% {
     left: 0;
   }
+}
+.sliderplus-wrap {
+  position: relative;
+  width: 700px;
+  height: 240px;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 120px;
 }
 .sliderplus {
   position: relative;
