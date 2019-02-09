@@ -1,6 +1,20 @@
 body {
   padding: 80px;
 }
+a {
+  position: absolute;
+  right: 40px;
+  bottom: 40px;
+  display: inline-block;
+  padding: 0 8px;
+  background: #ffffff;
+  width: 300px;
+  line-height: 0;
+  border: 8px solid #f5f5f5;
+}
+a img {
+  width: 100%;
+}
 @-webkit-keyframes slide-shell {
   0% {
     left: 118px;
