@@ -1,6 +1,4 @@
-# [SliderPLUS](https://codepen.io/dnomak/full/MLJqrX)
-
-CSS only SliderPLUS
+# [CSS only SliderPLUS](https://codepen.io/dnomak/full/MLJqrX)
 
  - [codepen.com](https://codepen.io/dnomak/full/MLJqrX)
  - [dribbble.com](https://dribbble.com/shots/5945486-edelkrone-SliderPLUS)
